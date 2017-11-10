@@ -1,0 +1,42 @@
+TpTrace Information: 0 : 15398, 2, 2017/11/10, 11:34:22.221, 55628495053000, vstest.console.dll, Using .Net Framework version:.NETFramework,Version=v4.6.1
+TpTrace Verbose: 0 : 15398, 2, 2017/11/10, 11:34:22.251, 55628520137000, vstest.console.dll, TestPluginCache: Discovering the extensions using extension path.
+TpTrace Information: 0 : 15398, 2, 2017/11/10, 11:34:22.252, 55628520984000, vstest.console.dll, AssemblyResolver: Microsoft.TestPlatform.TestHostRuntimeProvider: Resolving assembly.
+TpTrace Information: 0 : 15398, 2, 2017/11/10, 11:34:22.252, 55628521532000, vstest.console.dll, AssemblyResolver: Microsoft.TestPlatform.TestHostRuntimeProvider: Resolved assembly. 
+TpTrace Information: 0 : 15398, 2, 2017/11/10, 11:34:22.254, 55628523017000, vstest.console.dll, AssemblyResolver: Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger: Resolving assembly.
+TpTrace Information: 0 : 15398, 2, 2017/11/10, 11:34:22.254, 55628523493000, vstest.console.dll, AssemblyResolver: Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger: Resolved assembly. 
+TpTrace Verbose: 0 : 15398, 2, 2017/11/10, 11:34:22.256, 55628524722000, vstest.console.dll, TestPluginCache: Discovered the extensions using extension path ''.
+TpTrace Verbose: 0 : 15398, 2, 2017/11/10, 11:34:22.256, 55628524798000, vstest.console.dll, TestPluginCache: Discoverers are ''.
+TpTrace Verbose: 0 : 15398, 2, 2017/11/10, 11:34:22.256, 55628524854000, vstest.console.dll, TestPluginCache: Executors are ''.
+TpTrace Verbose: 0 : 15398, 2, 2017/11/10, 11:34:22.256, 55628524896000, vstest.console.dll, TestPluginCache: Setting providers are ''.
+TpTrace Verbose: 0 : 15398, 2, 2017/11/10, 11:34:22.256, 55628524936000, vstest.console.dll, TestPluginCache: Loggers are ''.
+TpTrace Information: 0 : 15398, 2, 2017/11/10, 11:34:22.270, 55628538634000, vstest.console.dll, RunTestsArgumentProcessor:Execute: Test run is starting.
+TpTrace Verbose: 0 : 15398, 2, 2017/11/10, 11:34:22.270, 55628538756000, vstest.console.dll, RunTestsArgumentProcessor:Execute: Queuing Test run.
+TpTrace Information: 0 : 15398, 2, 2017/11/10, 11:34:22.270, 55628539232000, vstest.console.dll, TestRequestManager.RunTests: run tests started.
+TpTrace Verbose: 0 : 15398, 2, 2017/11/10, 11:34:22.288, 55628556887000, vstest.console.dll, TestPluginCache: Updating loadOnlyWellKnownExtensions from False to True.
+TpTrace Verbose: 0 : 15398, 2, 2017/11/10, 11:34:22.288, 55628557126000, vstest.console.dll, TestPluginCache: Using directories for assembly resolution '/Users/owenniblock/Projects/ExampleTest/ExampleTest/bin/Debug'.
+TpTrace Verbose: 0 : 15398, 2, 2017/11/10, 11:34:22.288, 55628557193000, vstest.console.dll, TestPluginCache: Updated the available extensions to '/Users/owenniblock/Projects/ExampleTest/ExampleTest/bin/Debug/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll'.
+TpTrace Verbose: 0 : 15398, 2, 2017/11/10, 11:34:22.290, 55628559394000, vstest.console.dll, TestPluginCache: Updating loadOnlyWellKnownExtensions from True to True.
+TpTrace Verbose: 0 : 15398, 2, 2017/11/10, 11:34:22.290, 55628559513000, vstest.console.dll, TestPluginCache: Using directories for assembly resolution '/usr/local/share/dotnet/sdk/2.0.2/Extensions,/Users/owenniblock/Projects/ExampleTest/ExampleTest/bin/Debug'.
+TpTrace Verbose: 0 : 15398, 2, 2017/11/10, 11:34:22.291, 55628559579000, vstest.console.dll, TestPluginCache: Updated the available extensions to '/usr/local/share/dotnet/sdk/2.0.2/Extensions/Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.dll,/usr/local/share/dotnet/sdk/2.0.2/Extensions/Microsoft.TestPlatform.TestHostRuntimeProvider.dll,/Users/owenniblock/Projects/ExampleTest/ExampleTest/bin/Debug/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll'.
+TpTrace Information: 0 : 15398, 2, 2017/11/10, 11:34:22.297, 55628565732000, vstest.console.dll, TestPluginManager.CreateTestExtension: Attempting to load test extension: Microsoft.VisualStudio.TestPlatform.CrossPlatEngine.Hosting.DefaultTestHostManager
+TpTrace Verbose: 0 : 15398, 2, 2017/11/10, 11:34:22.297, 55628566477000, vstest.console.dll, TestEngine: Initializing Parallel Execution as MaxCpuCount is set to: 1
+TpTrace Verbose: 0 : 15398, 2, 2017/11/10, 11:34:22.302, 55628571461000, vstest.console.dll, ProxyExecutionManager: Test host is shared. SetupChannel it early.
+TpTrace Information: 0 : 15398, 2, 2017/11/10, 11:34:22.312, 55628580681000, vstest.console.dll, Listening on port : 56193
+TpTrace Verbose: 0 : 15398, 2, 2017/11/10, 11:34:22.329, 55628597733000, vstest.console.dll, DefaultTestHostmanager: Full path of TestHost/testhost.x86.exe is /usr/local/share/dotnet/sdk/2.0.2/Extensions/..//TestHost/testhost.x86.exe
+TpTrace Verbose: 0 : 15398, 4, 2017/11/10, 11:34:22.330, 55628599069000, vstest.console.dll, Launching default test Host Process /usr/local/share/dotnet/sdk/2.0.2/Extensions/..//TestHost/testhost.x86.exe with arguments  --port 56193 --parentprocessid 15398 --diag "/Users/owenniblock/Projects/ExampleTest/ExampleTest/log.host.17-11-10_11-34-22_31979_2.txt"
+TpTrace Verbose: 0 : 15398, 4, 2017/11/10, 11:34:22.330, 55628599169000, vstest.console.dll, DefaultTestHostManager: Starting process '/usr/local/share/dotnet/sdk/2.0.2/Extensions/..//TestHost/testhost.x86.exe' with command line ' --port 56193 --parentprocessid 15398 --diag "/Users/owenniblock/Projects/ExampleTest/ExampleTest/log.host.17-11-10_11-34-22_31979_2.txt"'
+TpTrace Verbose: 0 : 15398, 4, 2017/11/10, 11:34:22.337, 55628606277000, vstest.console.dll, Test Runtime launched with Pid: 15399
+TpTrace Error: 0 : 15398, 9, 2017/11/10, 11:34:22.340, 55628608571000, vstest.console.dll, Test host exited with error: ''
+TpTrace Information: 0 : 15398, 2, 2017/11/10, 11:35:22.339, 55688608377000, vstest.console.dll, AssemblyResolver: Microsoft.TestPlatform.CrossPlatEngine.resources: Resolving assembly.
+TpTrace Information: 0 : 15398, 2, 2017/11/10, 11:35:22.341, 55688609793000, vstest.console.dll, AssemblyResolver: Microsoft.TestPlatform.CrossPlatEngine.resources: Resolving assembly.
+TpTrace Error: 0 : 15398, 2, 2017/11/10, 11:35:22.364, 55688633204000, vstest.console.dll, ExecuteArgumentProcessor: failed to execute argument process: Microsoft.VisualStudio.TestPlatform.ObjectModel.TestPlatformException: Failed to initialize client proxy: could not connect to test process.
+   at Microsoft.VisualStudio.TestPlatform.CrossPlatEngine.Client.ProxyOperationManager.SetupChannel(IEnumerable`1 sources)
+   at Microsoft.VisualStudio.TestPlatform.CrossPlatEngine.Client.ProxyExecutionManager.InitializeExtensions(IEnumerable`1 sources)
+   at Microsoft.VisualStudio.TestPlatform.CrossPlatEngine.Client.ProxyExecutionManager.Initialize()
+   at Microsoft.VisualStudio.TestPlatform.Client.TestPlatform.CreateTestRunRequest(TestRunCriteria testRunCriteria, ProtocolConfig protocolConfig)
+   at Microsoft.VisualStudio.TestPlatform.CommandLine.TestPlatformHelpers.TestRequestManager.RunTests(TestRunCriteria testRunCriteria, ITestRunEventsRegistrar testRunEventsRegistrar, ProtocolConfig protocolConfig)
+   at Microsoft.VisualStudio.TestPlatform.CommandLine.TestPlatformHelpers.TestRequestManager.RunTests(TestRunRequestPayload testRunRequestPayload, ITestHostLauncher testHostLauncher, ITestRunEventsRegistrar testRunEventsRegistrar, ProtocolConfig protocolConfig)
+   at Microsoft.VisualStudio.TestPlatform.CommandLine.Processors.RunTestsArgumentExecutor.RunTests(IEnumerable`1 sources)
+   at Microsoft.VisualStudio.TestPlatform.CommandLine.Processors.RunTestsArgumentExecutor.Execute()
+   at Microsoft.VisualStudio.TestPlatform.CommandLine.Executor.ExecuteArgumentProcessor(IArgumentProcessor processor, Int32& exitCode)
+TpTrace Verbose: 0 : 15398, 2, 2017/11/10, 11:35:22.366, 55688635238000, vstest.console.dll, Executor.Execute: Exiting with exit code of 1
